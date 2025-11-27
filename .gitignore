@@ -4,3 +4,5 @@
 ./src/test
 ./src/train
 ./ravdess
+*.wav
+*.png
